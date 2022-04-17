@@ -1,0 +1,383 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.WebApi\\POC.GSL.WebApi.csproj": {}
+  },
+  "projects": {
+    "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data.Mongo\\POC.GSL.Data.Mongo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data.Mongo\\POC.GSL.Data.Mongo.csproj",
+        "projectName": "POC.GSL.Data.Mongo",
+        "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data.Mongo\\POC.GSL.Data.Mongo.csproj",
+        "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data.Mongo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\romul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data\\POC.GSL.Data.csproj": {
+                "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data\\POC.GSL.Data.csproj"
+              },
+              "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Infrastructure\\POC.GSL.Infrastructure.csproj": {
+                "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Infrastructure\\POC.GSL.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data\\POC.GSL.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data\\POC.GSL.Data.csproj",
+        "projectName": "POC.GSL.Data",
+        "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data\\POC.GSL.Data.csproj",
+        "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\romul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Domain\\POC.GSL.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Domain\\POC.GSL.Domain.csproj",
+        "projectName": "POC.GSL.Domain",
+        "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Domain\\POC.GSL.Domain.csproj",
+        "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\romul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Infrastructure\\POC.GSL.Infrastructure.csproj": {
+                "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Infrastructure\\POC.GSL.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Infrastructure\\POC.GSL.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Infrastructure\\POC.GSL.Infrastructure.csproj",
+        "projectName": "POC.GSL.Infrastructure",
+        "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Infrastructure\\POC.GSL.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\romul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.WebApi\\POC.GSL.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.WebApi\\POC.GSL.WebApi.csproj",
+        "projectName": "POC.GSL.WebApi",
+        "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.WebApi\\POC.GSL.WebApi.csproj",
+        "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\romul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data.Mongo\\POC.GSL.Data.Mongo.csproj": {
+                "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Data.Mongo\\POC.GSL.Data.Mongo.csproj"
+              },
+              "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Domain\\POC.GSL.Domain.csproj": {
+                "projectPath": "E:\\Projetos\\PUC\\poc-gsl\\POC.GSL.Domain\\POC.GSL.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.OData": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.25.3, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

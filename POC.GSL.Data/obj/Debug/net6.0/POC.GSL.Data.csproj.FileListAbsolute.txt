@@ -1,0 +1,12 @@
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\bin\Debug\net6.0\POC.GSL.Data.deps.json
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\bin\Debug\net6.0\POC.GSL.Data.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\bin\Debug\net6.0\ref\POC.GSL.Data.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\bin\Debug\net6.0\POC.GSL.Data.pdb
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\obj\Debug\net6.0\POC.GSL.Data.csproj.AssemblyReference.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\obj\Debug\net6.0\POC.GSL.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\obj\Debug\net6.0\POC.GSL.Data.AssemblyInfoInputs.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\obj\Debug\net6.0\POC.GSL.Data.AssemblyInfo.cs
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\obj\Debug\net6.0\POC.GSL.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\obj\Debug\net6.0\POC.GSL.Data.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\obj\Debug\net6.0\ref\POC.GSL.Data.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data\obj\Debug\net6.0\POC.GSL.Data.pdb

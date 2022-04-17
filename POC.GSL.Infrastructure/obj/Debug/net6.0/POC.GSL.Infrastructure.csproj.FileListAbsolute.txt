@@ -1,0 +1,12 @@
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\bin\Debug\net6.0\POC.GSL.Infrastructure.deps.json
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\bin\Debug\net6.0\POC.GSL.Infrastructure.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\bin\Debug\net6.0\ref\POC.GSL.Infrastructure.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\bin\Debug\net6.0\POC.GSL.Infrastructure.pdb
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\obj\Debug\net6.0\POC.GSL.Infrastructure.csproj.AssemblyReference.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\obj\Debug\net6.0\POC.GSL.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\obj\Debug\net6.0\POC.GSL.Infrastructure.AssemblyInfoInputs.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\obj\Debug\net6.0\POC.GSL.Infrastructure.AssemblyInfo.cs
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\obj\Debug\net6.0\POC.GSL.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\obj\Debug\net6.0\POC.GSL.Infrastructure.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\obj\Debug\net6.0\ref\POC.GSL.Infrastructure.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Infrastructure\obj\Debug\net6.0\POC.GSL.Infrastructure.pdb

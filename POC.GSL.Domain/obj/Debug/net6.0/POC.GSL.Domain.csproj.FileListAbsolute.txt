@@ -1,0 +1,15 @@
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\obj\Debug\net6.0\POC.GSL.Domain.csproj.AssemblyReference.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\obj\Debug\net6.0\POC.GSL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\obj\Debug\net6.0\POC.GSL.Domain.AssemblyInfoInputs.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\obj\Debug\net6.0\POC.GSL.Domain.AssemblyInfo.cs
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\obj\Debug\net6.0\POC.GSL.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\bin\Debug\net6.0\POC.GSL.Domain.deps.json
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\bin\Debug\net6.0\POC.GSL.Domain.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\bin\Debug\net6.0\ref\POC.GSL.Domain.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\bin\Debug\net6.0\POC.GSL.Domain.pdb
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\bin\Debug\net6.0\POC.GSL.Infrastructure.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\bin\Debug\net6.0\POC.GSL.Infrastructure.pdb
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\obj\Debug\net6.0\POC.GSL.Domain.csproj.CopyComplete
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\obj\Debug\net6.0\POC.GSL.Domain.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\obj\Debug\net6.0\ref\POC.GSL.Domain.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Domain\obj\Debug\net6.0\POC.GSL.Domain.pdb

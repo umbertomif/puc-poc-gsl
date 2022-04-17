@@ -1,0 +1,17 @@
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\bin\Debug\net6.0\POC.GSL.Data.Mongo.deps.json
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\bin\Debug\net6.0\POC.GSL.Data.Mongo.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\bin\Debug\net6.0\ref\POC.GSL.Data.Mongo.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\bin\Debug\net6.0\POC.GSL.Data.Mongo.pdb
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\bin\Debug\net6.0\POC.GSL.Data.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\bin\Debug\net6.0\POC.GSL.Infrastructure.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\bin\Debug\net6.0\POC.GSL.Data.pdb
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\bin\Debug\net6.0\POC.GSL.Infrastructure.pdb
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\obj\Debug\net6.0\POC.GSL.Data.Mongo.csproj.AssemblyReference.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\obj\Debug\net6.0\POC.GSL.Data.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\obj\Debug\net6.0\POC.GSL.Data.Mongo.AssemblyInfoInputs.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\obj\Debug\net6.0\POC.GSL.Data.Mongo.AssemblyInfo.cs
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\obj\Debug\net6.0\POC.GSL.Data.Mongo.csproj.CoreCompileInputs.cache
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\obj\Debug\net6.0\POC.GSL.Data.Mongo.csproj.CopyComplete
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\obj\Debug\net6.0\POC.GSL.Data.Mongo.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\obj\Debug\net6.0\ref\POC.GSL.Data.Mongo.dll
+E:\Projetos\PUC\poc-gsl\POC.GSL.Data.Mongo\obj\Debug\net6.0\POC.GSL.Data.Mongo.pdb
